@@ -1,0 +1,4 @@
+.table {border:5px dashed red;}
+.table th,.table td {border:5px dashed red;}
+.table th {background-color:orange;}
+.table {border-collapse: collapse;}
